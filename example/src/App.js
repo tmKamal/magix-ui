@@ -1,10 +1,22 @@
 import React from 'react'
 
-import { ExampleComponent } from 'magix-ui'
+import { MagixButton } from 'magix-ui'
 import 'magix-ui/dist/index.css'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return (
+    <div style={{ textAlign: 'center', marginTop: '200px' }}>
+      <MagixButton round inverse>Round</MagixButton>
+      <MagixButton round >Round</MagixButton>
+      <MagixButton round disabled={true}>Round</MagixButton>
+      <MagixButton  inverse>Submit</MagixButton>
+      <MagixButton  >Submit</MagixButton>
+      <MagixButton  disabled={true}>Submit</MagixButton>
+      <MagixButton  circle>+</MagixButton>
+      <MagixButton  circle inverse>+</MagixButton>
+      <MagixButton  circle inverse disabled={true}>+</MagixButton>
+    </div>
+  )
 }
 
 export default App
