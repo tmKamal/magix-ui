@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/magix-ui/static/css/main.588015e7.chunk.css",
+    "main.js": "/magix-ui/static/js/main.5a548c95.chunk.js",
+    "main.js.map": "/magix-ui/static/js/main.5a548c95.chunk.js.map",
+    "runtime-main.js": "/magix-ui/static/js/runtime-main.79fbb6ac.js",
+    "runtime-main.js.map": "/magix-ui/static/js/runtime-main.79fbb6ac.js.map",
+    "static/js/2.19efa3dc.chunk.js": "/magix-ui/static/js/2.19efa3dc.chunk.js",
+    "static/js/2.19efa3dc.chunk.js.map": "/magix-ui/static/js/2.19efa3dc.chunk.js.map",
+    "index.html": "/magix-ui/index.html",
+    "precache-manifest.ef64a107b4c0905ec0079245b5e16bc4.js": "/magix-ui/precache-manifest.ef64a107b4c0905ec0079245b5e16bc4.js",
+    "service-worker.js": "/magix-ui/service-worker.js",
+    "static/css/main.588015e7.chunk.css.map": "/magix-ui/static/css/main.588015e7.chunk.css.map",
+    "static/js/2.19efa3dc.chunk.js.LICENSE.txt": "/magix-ui/static/js/2.19efa3dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79fbb6ac.js",
+    "static/js/2.19efa3dc.chunk.js",
+    "static/css/main.588015e7.chunk.css",
+    "static/js/main.5a548c95.chunk.js"
+  ]
+}
